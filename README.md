@@ -1,14 +1,14 @@
 # ML-Slides
-Topics Covered
+## Topics Covered
 
 - Model Selection
 - Bias-Variance-Noise Decomposition
 - Bagging
 - Boosting
+- Information-Theoretic Feature Selection
 
-To be added
+## To be added
 
 - Basics in Statistical Inference
-- Information-Theoretic Feature Selection
 - Time Series Forecasting
 - Bidirectional Encoder Representations from Transformers (BERT)
