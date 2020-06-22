@@ -11,4 +11,4 @@
 
 - Basics in Statistical Inference
 - Time Series Forecasting
-- Bidirectional Encoder Representations from Transformers (BERT)
+- Selected Topics in NLP
